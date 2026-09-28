@@ -33,7 +33,7 @@ O projeto simula um fluxo real de trabalho colaborativo entre:
 
 | | Red Team (Ofensivo) | Blue Team (Defensivo) |
 |---|---|---|
-| **Responsável** | [Seu nome] | [Nome do seu amigo] |
+| **Responsável** | Alysson | Pedro e Guilherme |
 | **Foco** | Pentest, exploração, documentação de vulnerabilidades | Desenvolvimento da aplicação, banco de dados, correções |
 | **Entregas** | Relatórios de pentest (v1 e v2), PoCs, metodologia de teste | Aplicação funcional, schema do banco, patches de segurança |
 
@@ -113,7 +113,7 @@ Status será atualizado para 🟢 Corrigido conforme o ciclo de correção/retes
 ## 🚀 Como rodar o projeto
 
 ```bash
-git clone https://github.com/[seu-usuario]/vulnshop.git
+git clone https://github.com/alysonovv/vulnshop.git
 cd vulnshop
 docker-compose up --build
 ```
@@ -130,5 +130,6 @@ Este projeto está sob a licença MIT — veja [LICENSE](LICENSE) para mais deta
 
 ## 📬 Contato
 
-- [Seu nome] — Red Team — [LinkedIn] | [GitHub]
-- [Nome do amigo] — Blue Team — [LinkedIn] | [GitHub]
+- Alysson — Red Team — [[LinkedIn]](https://www.linkedin.com/in/alysson-paulino/) | [[GitHub]](https://github.com/alysonovv/)
+- Pedro — Blue Team — [[LinkedIn]](https://www.linkedin.com/in/psousadev7/) | [GitHub]
+- Guilherme - Blue Team [[LinkedIn]](https://www.linkedin.com/in/guilherme-de-aquino-9829b0263/) | [GitHub]

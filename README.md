@@ -132,4 +132,4 @@ Este projeto está sob a licença MIT — veja [LICENSE](LICENSE) para mais deta
 
 - Alysson — Red Team — [[LinkedIn]](https://www.linkedin.com/in/alysson-paulino/) | [[GitHub]](https://github.com/alysonovv/)
 - Pedro — Blue Team — [[LinkedIn]](https://www.linkedin.com/in/psousadev7/) | [GitHub]
-- Guilherme - Blue Team [[LinkedIn]](https://www.linkedin.com/in/guilherme-de-aquino-9829b0263/) | [GitHub]
+- Guilherme - Blue Team [[LinkedIn]](https://www.linkedin.com/in/guilherme-de-aquino-9829b0263/) | [[GitHub]](https://github.com/GuilhermeDeAquino)

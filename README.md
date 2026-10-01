@@ -131,5 +131,5 @@ Este projeto está sob a licença MIT — veja [LICENSE](LICENSE) para mais deta
 ## 📬 Contato
 
 - Alysson — Red Team — [[LinkedIn]](https://www.linkedin.com/in/alysson-paulino/) | [[GitHub]](https://github.com/alysonovv/)
-- Pedro — Blue Team — [[LinkedIn]](https://www.linkedin.com/in/psousadev7/) | [GitHub]
+- Pedro — Blue Team — [[LinkedIn]](https://www.linkedin.com/in/psousadev7/) | [[GitHub]](https://github.com/SousaDev7)
 - Guilherme - Blue Team [[LinkedIn]](https://www.linkedin.com/in/guilherme-de-aquino-9829b0263/) | [[GitHub]](https://github.com/GuilhermeDeAquino)
